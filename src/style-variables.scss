@@ -1,0 +1,76 @@
+// imports
+// TODO: only import the icons that are used
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+
+
+// font-weight: 100;
+// font-weight: 200;
+// font-weight: 300;
+// font-weight: 400;// normal
+// font-weight: 500;
+// font-weight: 600;
+// font-weight: 700;// bold
+// font-weight: 800;
+// font-weight: 900;
+
+// fonts
+@font-face {
+    font-family: 'Inquisition';
+    src: url(./assets/fonts/Inquisition.ttf)
+}
+
+@font-face{
+    font-family: 'Asul';
+    src: url(./assets/fonts/Asul-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Asul';
+    src: url(./assets/fonts/Asul-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Estre';
+    src: url(./assets/fonts/estre.ttf);
+}
+
+@font-face{
+    font-family: 'Verdana';
+    src: url(./assets/fonts/Verdana.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Verdana';
+    src: url(./assets/fonts/Verdana_Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: 'Verdana';
+    src: url(./assets/fonts/Verdana_Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: 'Verdana';
+    src: url(./assets/fonts/Verdana_Bold_Italic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+// general colours
+$white: #e4e1d5;
+$black: #202124;
+$yellow: #FBCA3C;

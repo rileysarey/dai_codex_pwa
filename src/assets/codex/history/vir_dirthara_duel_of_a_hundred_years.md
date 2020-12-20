@@ -1,0 +1,3 @@
+<i> The pages of this book—memory?—show an narrow plateau on top of a mountain, Two armored figures—one in gold, one in black—are fighting in the snow. Steel flickers so fast the air hums. Blood dots the ground. They do not stop for breath. The one in black makes no sound as a blade parts his throat. </i>
+
+"Mythal, in her wisdom, interceded in an argument between Elgar'nan and Falon'Din. With clever words, she convince them to settle their grievance through a battle of their champions. Elgar'nan and Falon'Din agreed, and set their champions against each other rather than declare war among the gods. May those knights long be remembered, and Mythal's wisdom be praised."

@@ -1,0 +1,3 @@
+<i> The pages of this book—memory?—show the blazing forms of the Evanuris banishing a howling spirit from the reaches of the Fade that touch their lands. A voice rings out, stern and imperial: </i>
+
+"For abandoning the People in their time of greatest need, for casting aside form to flee to where the Earth could not reach, we declare Xebenkeck and others of her ilk exiled from the lands of the Evanuris. Beware! Their familiarity with shape allows them to travel paths unaided. They may be bound, but only the protection of your gods will fully shield you from their malice. They are Forbidden from the Earth that is our right."

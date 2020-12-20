@@ -1,0 +1,1 @@
+<i> The veilfire ignites a complicated tangle of glyphs. There is an impression of mourning. Avvar from Stone-Bear Hold pray and sacrifice to the spirit destroyed in the last battle. There is the sensation of months passing. The prayers are not forgotten. The vision fades. </i>

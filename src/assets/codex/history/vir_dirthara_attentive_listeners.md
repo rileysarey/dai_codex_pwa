@@ -1,0 +1,3 @@
+<i> The pages of this book—memory?—show a solemn group of elves in an ampitheater of living wood, entire trees grown into seats and stairs for the listeners to recline on. Two other elves and a spirit of learning are speaking in turn on ways to bend the properties of the material world when casting spells. At the end, the spirit, with the air of a senior lecturer, floats forward and booms in a surprisingly deep voice. </i>
+
+"The unchanging world is delicate: spells of power invite disaster and annihilation. The unchanging world is stubborn: the pull of the earth fiercely resists making fire run like water or stone rise like mist. The unchanging world rings with its own harmony. Listen with fearless hearts, and great works will unfold."

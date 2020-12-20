@@ -1,0 +1,37 @@
+<!-- ANCHOR: Heading -->
+<app-header [title]="category" (onChangeLayout)="openModal(content)"></app-header>
+<div class="mnl mnr mnb" id="test">
+
+  <!-- NOTE: Grid -->
+  <div id="tarot-container">
+    <div *ngIf="isGrid" class="d-flex flex-wrap">
+      <div *ngFor="let item of codices; let i = index" [ngClass]="(i + 1) % numOfCards == 0 ? '' : 'margin'" [ngStyle]="
+          width == null
+            ? { 'width.percent': '100%', 'margin-right': '15px' }
+            : { 'width.px': width }
+        ">
+        <div #refEl type="input" class="tarot-container" (click)="storeScrollYPosition(); navigate(item.link, refEl)">
+          <img class="tarot" [ngClass]="{'darken': isShowTitle}" src="../../assets/tarots/{{ item.img }}"
+            alt="item.title" />
+
+          <div *ngIf="isShowTitle" class="text-overlay">
+            <h3>{{ item.title }}</h3>
+          </div>
+
+          <div class="gold-overlay"></div>
+        </div>
+        <div class="mnb"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- NOTE: List -->
+  <app-list *ngIf="!isGrid" [list]=codices (onTileClicked) = "storeScrollYPosition()"></app-list>
+</div>
+
+<!-- SECTION: Layout Modal -->
+<ng-template #content let-modal>
+  <app-layout-modal (onClose)="closeModal()" (onShowTitle)="onShowTitle()" [isGrid]="isGrid"
+    [isShowTitle]="isShowTitle" (onGrid)="onGrid()" (onList)="onList()"></app-layout-modal>
+</ng-template>
+<!-- !SECTION -->

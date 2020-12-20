@@ -1,0 +1,204 @@
+/* You can add global styles to this file, and also import other style files */
+@import "./style-variables.scss";
+
+html {
+  background-color: $black;
+}
+body {
+  background-color: $black !important;
+  overflow-x: hidden;
+  color: $white !important;
+  font-family: "Estre" !important;
+  width: 100vw;
+  overflow-y: scroll !important;
+}
+
+a,
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+h1 {
+  font-size: 1.85em !important;
+  font-family: "Inquisition";
+}
+
+h3 {
+  font-family: "Inquisition";
+  font-size: 1.6em !important;
+  text-align: center;
+}
+
+h4 {
+  font-size: 1.4em !important;
+  font-family: 'Inquisition';
+  text-align: center;
+  color: $white;
+  margin-bottom: 0 !important;
+}
+
+h1::first-line {
+  line-height: 0.7em;
+}
+
+h3::first-line {
+  line-height: 0.9em;
+}
+
+h4::first-line {
+  line-height: 0.8em;
+}
+
+// Used in codex and category screen
+.text {
+  font-size: 1.25em;
+  line-height: 1.15em;
+}
+
+.large-space {
+  height: 0.5em;
+}
+
+.xx-large-space {
+  height: 2em;
+}
+
+.hspace {
+  height: 15px;
+}
+.wspace {
+  width: 15px;
+}
+
+.wspace-sm {
+  width: 7.5px;
+}
+
+.yellow-line {
+  width: 100%;
+  height: 1px;
+  background-color: #927e48;
+}
+
+// SECTION Codex Text
+h2.condition {
+  word-spacing: -1px;
+  letter-spacing: -0.5px;
+  font-size: 0.85em;
+  font-style: italic;
+  color: #FBCA3C;
+  font-family: 'Verdana';
+  font-weight: 600;
+  padding-bottom: 8px;
+  margin-bottom: 0px !important;
+  text-align: start;
+}
+
+b.inline-condition {
+  font-family: 'Verdana';
+  color: $yellow;
+  font-style: italic;
+  font-size: 0.75em;
+}
+
+span.bracket {
+  color: $yellow;
+}
+
+.division {
+  width: 100%;
+  height: 1px;
+  background-color: $white;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.dot {
+  text-align: center;
+  padding-bottom: 16px;
+}
+
+// !SECTION
+
+// SECTION: Modal
+.modal {
+  display: flex !important;
+  justify-content: center;
+  overflow: hidden !important;
+  // align-items: center (this will be for desktop version)
+}
+
+.modal-dialog {
+  position: absolute;
+  bottom: 0px;
+  width: calc(100vw - 30px);
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  margin-bottom: 15px;
+  border-radius: 0.5em;
+}
+
+.modal-content {
+  background-color: $black;
+  font-family: "Asul";
+  box-shadow: 0 0 0.25em #ffcc74;
+}
+
+.modal-body {
+  padding: 0 !important;
+}
+
+// !SECTION
+.pdl {
+  padding-left: 15px;
+}
+
+.pdt {
+  padding-top: 15px;
+}
+
+.pdr {
+  padding-right: 15px;
+}
+
+.pdb {
+  padding-bottom: 15px;
+}
+
+.pdb-sm {
+  padding-bottom: 7.5px;
+}
+
+.pdt-sm {
+  padding-top: 7.5px;
+}
+
+.mnl {
+  margin-left: 15px;
+}
+
+.mnt {
+  margin-top: 15px;
+}
+
+.mnr {
+ margin-right: 15px;
+}
+
+.mnb {
+  margin-bottom: 15px;
+}
+
+.icon {
+  display: flex;
+  align-items: flex-start;
+  min-width: 50px;
+  color: #fbca3c;
+  font-size: 1.5em;
+}

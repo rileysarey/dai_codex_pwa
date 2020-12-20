@@ -1,0 +1,14 @@
+<div class="pb-4">
+    <div *ngFor="let item of list; let i = index">
+        <div class="row">
+            <div #refEl class="col-12 list-container" (click)="goToCodex(item.link, refEl)">
+                <div class="overlay"></div>
+                <div class="dai-btn">
+                    <h4>{{ item.title }}</h4>
+                    <h4 class="overlay-text">{{ item.title }}</h4>
+                    <div class="yellow-border-bottom"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

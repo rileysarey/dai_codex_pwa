@@ -1,0 +1,17 @@
+<div class="d-flex justify-content-between pb-2">
+  <!-- NOTE: Back Button -->
+  <div class="icon pdl pdt pdr pdb start" (click)="goBack()">
+    <i class="fas fa-chevron-left"></i>
+  </div>
+
+  <!-- NOTE: Title on Codex Page -->
+  <h3 *ngIf="codexPg">{{ title | titlecase }}</h3>
+
+  <!-- NOTE: Title on Tarot Page -->
+  <h1 *ngIf="!codexPg">{{ title | titlecase }}</h1>
+
+  <!-- NOTE: Layout Button -->
+  <div class="icon pdl pdt pdr pdb end">
+    <i *ngIf="!codexPg" class="fas fa-th-large" (click)="changeLayout()"></i>
+  </div>
+</div>

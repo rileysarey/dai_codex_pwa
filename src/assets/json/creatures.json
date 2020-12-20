@@ -1,0 +1,327 @@
+[
+    {
+      "title": "A Horsemaster's Notes on Mounts",
+      "link": "a_horsemaster's_notes_on_mounts",
+      "tarot_path": "assets/tarots/creatures/a_horsemaster's_notes_on_mounts.png"
+    },
+    {
+      "title": "Arcane Horror",
+      "link": "arcane_horror",
+      "tarot_path": "assets/tarots/creatures/arcane_horror.png"
+    },
+    {
+      "title": "Archers",
+      "link": "archers",
+      "tarot_path": "assets/tarots/creatures/archers.png"
+    },
+    {
+      "title": "August Ram",
+      "link": "august_ram",
+      "tarot_path": "assets/tarots/creatures/august_ram.png"
+    },
+    {
+      "title": "Bear",
+      "link": "bear",
+      "tarot_path": "assets/tarots/creatures/bear.png"
+    },
+    {
+      "title": "Behemoth",
+      "link": "behemoth",
+      "tarot_path": "assets/tarots/creatures/behemoth.png"
+    },
+    {
+      "title": "Black Wolf",
+      "link": "black_wolf",
+      "tarot_path": "assets/tarots/creatures/black_wolf.png"
+    },
+    {
+      "title": "Bogfisher",
+      "link": "bogfisher",
+      "tarot_path": "assets/tarots/creatures/bogfisher.png"
+    },
+    {
+      "title": "Bronto",
+      "link": "bronto",
+      "tarot_path": "assets/tarots/creatures/bronto.png"
+    },
+    {
+      "title": "Bruiser",
+      "link": "bruiser",
+      "tarot_path": "assets/tarots/creatures/bruiser.png"
+    },
+    {
+      "title": "Corpse",
+      "link": "corpse",
+      "tarot_path": "assets/tarots/creatures/corpse.png"
+    },
+    {
+      "title": "Cretahl",
+      "link": "cretahl",
+      "tarot_path": "assets/tarots/creatures/cretahl.png"
+    },
+    {
+      "title": "Darkspawn",
+      "link": "darkspawn",
+      "tarot_path": "assets/tarots/creatures/darkspawn.png"
+    },
+    {
+      "title": "Darkspawn Emissary",
+      "link": "darkspawn_emissary",
+      "tarot_path": "assets/tarots/creatures/darkspawn_emissary.png"
+    },
+    {
+      "title": "Deepstalker",
+      "link": "deepstalker",
+      "tarot_path": "assets/tarots/creatures/deepstalker.png"
+    },
+    {
+      "title": "Despair Demon",
+      "link": "despair_demon",
+      "tarot_path": "assets/tarots/creatures/despair_demon.png"
+    },
+    {
+      "title": "Dragon",
+      "link": "dragon",
+      "tarot_path": "assets/tarots/creatures/dragon.png"
+    },
+    {
+      "title": "Dragonling",
+      "link": "dragonling",
+      "tarot_path": "assets/tarots/creatures/dragonling.png"
+    },
+    {
+      "title": "Druffalo",
+      "link": "druffalo",
+      "tarot_path": "assets/tarots/creatures/druffalo.png"
+    },
+    {
+      "title": "Envy",
+      "link": "envy",
+      "tarot_path": "assets/tarots/creatures/envy.png"
+    },
+    {
+      "title": "Fear",
+      "link": "fear",
+      "tarot_path": "assets/tarots/creatures/fear.png"
+    },
+    {
+      "title": "Fennec",
+      "link": "fennec",
+      "tarot_path": "assets/tarots/creatures/fennec.png"
+    },
+    {
+      "title": "Foot Soldier",
+      "link": "foot_soldier",
+      "tarot_path": "assets/tarots/creatures/foot_soldier.png"
+    },
+    {
+      "title": "Genlock",
+      "link": "genlock",
+      "tarot_path": "assets/tarots/creatures/genlock.png"
+    },
+    {
+      "title": "Ghoul",
+      "link": "ghoul",
+      "tarot_path": "assets/tarots/creatures/ghoul.png"
+    },
+    {
+      "title": "Giant",
+      "link": "giant",
+      "tarot_path": "assets/tarots/creatures/giant.png"
+    },
+    {
+      "title": "Giant Spider",
+      "link": "giant_spider",
+      "tarot_path": "assets/tarots/creatures/giant_spider.png"
+    },
+    {
+      "title": "Great Bear",
+      "link": "great_bear",
+      "tarot_path": "assets/tarots/creatures/great_bear.png"
+    },
+    {
+      "title": "Guardsman",
+      "link": "guardsman",
+      "tarot_path": "assets/tarots/creatures/guardsman.png"
+    },
+    {
+      "title": "Gurgut",
+      "link": "gurgut",
+      "tarot_path": "assets/tarots/creatures/gurgut.png"
+    },
+    {
+      "title": "Gurn",
+      "link": "gurn",
+      "tarot_path": "assets/tarots/creatures/gurn.png"
+    },
+    {
+      "title": "Halla",
+      "link": "halla",
+      "tarot_path": "assets/tarots/creatures/halla.png"
+    },
+    {
+      "title": "Horror",
+      "link": "horror",
+      "tarot_path": "assets/tarots/creatures/horror.png"
+    },
+    {
+      "title": "Hurlock",
+      "link": "hurlock",
+      "tarot_path": "assets/tarots/creatures/hurlock.png"
+    },
+    {
+      "title": "Hurlock Alpha",
+      "link": "hurlock_alpha",
+      "tarot_path": "assets/tarots/creatures/hurlock_alpha.png"
+    },
+    {
+      "title": "Hyena",
+      "link": "hyena",
+      "tarot_path": "assets/tarots/creatures/hyena.png"
+    },
+    {
+      "title": "Lurker",
+      "link": "lurker",
+      "tarot_path": "assets/tarots/creatures/lurker.png"
+    },
+    {
+      "title": "Mabari War Hound",
+      "link": "mabari_war_hound",
+      "tarot_path": "assets/tarots/creatures/mabari_war_hound.png"
+    },
+    {
+      "title": "Mage",
+      "link": "mage",
+      "tarot_path": "assets/tarots/creatures/mage.png"
+    },
+    {
+      "title": "Nightmare",
+      "link": "nightmare",
+      "tarot_path": "assets/tarots/creatures/nightmare.png"
+    },
+    {
+      "title": "Nug",
+      "link": "nug",
+      "tarot_path": "assets/tarots/creatures/nug.png"
+    },
+    {
+      "title": "Ogre",
+      "link": "ogre",
+      "tarot_path": "assets/tarots/creatures/ogre.png"
+    },
+    {
+      "title": "Phoenix",
+      "link": "phoenix",
+      "tarot_path": "assets/tarots/creatures/phoenix.png"
+    },
+    {
+      "title": "Poison Spider",
+      "link": "poison_spider",
+      "tarot_path": "assets/tarots/creatures/poison_spider.png"
+    },
+    {
+      "title": "Pride Demon",
+      "link": "pride_demon",
+      "tarot_path": "assets/tarots/creatures/pride_demon.png"
+    },
+    {
+      "title": "Prowler",
+      "link": "prowler",
+      "tarot_path": "assets/tarots/creatures/prowler.png"
+    },
+    {
+      "title": "Quillback",
+      "link": "quillback",
+      "tarot_path": "assets/tarots/creatures/quillback.png"
+    },
+    {
+      "title": "Rage Demon",
+      "link": "rage_demon",
+      "tarot_path": "assets/tarots/creatures/rage_demon.png"
+    },
+    {
+      "title": "Ram",
+      "link": "ram",
+      "tarot_path": "assets/tarots/creatures/ram.png"
+    },
+    {
+      "title": "Red Templar Archers",
+      "link": "red_templar_archers",
+      "tarot_path": "assets/tarots/creatures/red_templar_archers.png"
+    },
+    {
+      "title": "Red Templar Foot Soldier",
+      "link": "red_templar_foot_soldier",
+      "tarot_path": "assets/tarots/creatures/red_templar_foot_soldier.png"
+    },
+    {
+      "title": "Red Templar Guardsman",
+      "link": "red_templar_guardsman",
+      "tarot_path": "assets/tarots/creatures/red_templar_guardsman.png"
+    },
+    {
+      "title": "Red Templar Knight",
+      "link": "red_templar_knight",
+      "tarot_path": "assets/tarots/creatures/red_templar_knight.png"
+    },
+    {
+      "title": "Red Templars",
+      "link": "red_templars",
+      "tarot_path": "assets/tarots/creatures/red_templars.png"
+    },
+    {
+      "title": "Revenant",
+      "link": "revenant",
+      "tarot_path": "assets/tarots/creatures/revenant.png"
+    },
+    {
+      "title": "Shade",
+      "link": "shade",
+      "tarot_path": "assets/tarots/creatures/shade.png"
+    },
+    {
+      "title": "Shadow",
+      "link": "shadow",
+      "tarot_path": "assets/tarots/creatures/shadow.png"
+    },
+    {
+      "title": "Shriek",
+      "link": "shriek",
+      "tarot_path": "assets/tarots/creatures/shriek.png"
+    },
+    {
+      "title": "Snoufleur",
+      "link": "snoufleur",
+      "tarot_path": "assets/tarots/creatures/snoufleur.png"
+    },
+    {
+      "title": "Spellbinder",
+      "link": "spellbinder",
+      "tarot_path": "assets/tarots/creatures/spellbinder.png"
+    },
+    {
+      "title": "Terror",
+      "link": "terror",
+      "tarot_path": "assets/tarots/creatures/terror.png"
+    },
+    {
+      "title": "Tusket",
+      "link": "tusket",
+      "tarot_path": "assets/tarots/creatures/tusket.png"
+    },
+    {
+      "title": "Varghest",
+      "link": "varghest",
+      "tarot_path": "assets/tarots/creatures/varghest.png"
+    },
+    {
+      "title": "Wraith",
+      "link": "wraith",
+      "tarot_path": "assets/tarots/creatures/wraith.png"
+    },
+    {
+      "title": "Wyvern",
+      "link": "wyvern",
+      "tarot_path": "assets/tarots/creatures/wyvern.png"
+    }
+  ]

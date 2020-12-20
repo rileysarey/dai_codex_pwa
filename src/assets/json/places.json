@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Adamant Fortress",
+        "codex_path": "assets/codex/places/adamant_fortress.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Antiva",
+        "codex_path": "assets/codex/places/antiva.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Arbor Wilds",
+        "codex_path": "assets/codex/places/arbor_wilds.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Caer Bronach",
+        "codex_path": "assets/codex/places/caer_bronach.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Caer Oswin",
+        "codex_path": "assets/codex/places/caer_oswin.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Coracavus",
+        "codex_path": "assets/codex/places/coracavus.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Crestwood",
+        "codex_path": "assets/codex/places/crestwood.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Deep Roads",
+        "codex_path": "assets/codex/places/deep_roads.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Emprise du Lion",
+        "codex_path": "assets/codex/places/emprise_du_lion.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Fereldan Culture",
+        "codex_path": "assets/codex/places/fereldan_culture.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Ferelden After the Blight",
+        "codex_path": "assets/codex/places/ferelden_after_the_blight.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Fort Connor",
+        "codex_path": "assets/codex/places/fort_connor.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Frostback Basin",
+        "codex_path": "assets/codex/places/frostback_basin.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Grand Forest Villa",
+        "codex_path": "assets/codex/places/grand_forest_villa.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Halamshiral",
+        "codex_path": "assets/codex/places/halamshiral.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Haven",
+        "codex_path": "assets/codex/places/haven.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Heidrun Thaig",
+        "codex_path": "assets/codex/places/heidrun_thaig.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Lornan's Exile",
+        "codex_path": "assets/codex/places/lornan's_exile.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Miroir de la Mère, Reville's Folly",
+        "codex_path": "assets/codex/places/miroir_de_la_mère_reville's_folly.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Nevarra",
+        "codex_path": "assets/codex/places/nevarra.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "On Skyhold",
+        "codex_path": "assets/codex/places/on_skyhold.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Redcliffe",
+        "codex_path": "assets/codex/places/redcliffe_.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Rivain",
+        "codex_path": "assets/codex/places/rivain.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Seheron",
+        "codex_path": "assets/codex/places/seheron.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Temple of Sacred Ashes, Rediscovered",
+        "codex_path": "assets/codex/places/temple_of_sacred_ashes.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Anderfels",
+        "codex_path": "assets/codex/places/the_anderfels.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Black Emporium",
+        "codex_path": "assets/codex/places/the_black_emporium.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The City-State of Kirkwall",
+        "codex_path": "assets/codex/places/the_city-state_of_kirkwall.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Cradle of Sulevin",
+        "codex_path": "assets/codex/places/the_cradle_of_sulevin.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Emerald Graves",
+        "codex_path": "assets/codex/places/the_emerald_graves.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Exalted Plains",
+        "codex_path": "assets/codex/places/the_exalted_plains.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Fade",
+        "codex_path": "assets/codex/places/the_fade.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Fallow Mire",
+        "codex_path": "assets/codex/places/the_fallow_mire.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Forbidden Oasis",
+        "codex_path": "assets/codex/places/the_forbidden_oasis.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Frostback Mountains",
+        "codex_path": "assets/codex/places/the_frostback_mountains.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Hinterlands",
+        "codex_path": "assets/codex/places/the_hinterlands.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Hissing Wastes",
+        "codex_path": "assets/codex/places/the_hissing_wastes.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Marquisate of Serault Glassworks",
+        "codex_path": "assets/codex/places/the_marquisate_of_serault_glassworks.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Orlesian Empire",
+        "codex_path": "assets/codex/places/the_orlesian_empire.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Penitents' Crossing",
+        "codex_path": "assets/codex/places/the_penitents'_crossing.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Still Ruins",
+        "codex_path": "assets/codex/places/the_still_ruins.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Storm Coast",
+        "codex_path": "assets/codex/places/the_storm_coast.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Summer Bazaar",
+        "codex_path": "assets/codex/places/the_summer_bazaar.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Temple of Mythal",
+        "codex_path": "assets/codex/places/the_temple_of_mythal.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Tevinter Imperium",
+        "codex_path": "assets/codex/places/the_tevinter_imperium.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "The Western Approach",
+        "codex_path": "assets/codex/places/the_western_approach.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Therinfal Redoubt",
+        "codex_path": "assets/codex/places/therinfal_redoubt.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    },
+    {
+        "title": "Val Royeaux",
+        "codex_path": "assets/codex/places/val_royeaux.md",
+        "tarot_path": "assets/tarots/places/places.png"
+    }
+]

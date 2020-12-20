@@ -1,0 +1,51 @@
+<div class="modal-body">
+
+    <div class="d-flex justify-content-between layout-header pdl">
+        <div class="layout-title">TAROT VIEW</div>
+
+        <!-- NOTE: Close Button  -->
+        <div class="icon pdl pdt pdr pdb">
+            <i class="fas fa-times" (click)="closeHandler()"></i>
+        </div>
+    </div>
+
+    <div class="yellow-line mnl mnr"></div>
+
+    <!-- NOTE: Grid Button -->
+    <div class="d-flex" (click)="onGridHandler()">
+
+        <div class="icon pdl pdt pdr pdb-sm transition" [ngClass]="{'lower-opacity': !isGrid, 'white': !isGrid}">
+            <i class="fas fa-th-large"></i>
+        </div>
+
+        <div class="wspace"></div>
+        <div class="layout-text pdt transition" [ngClass]="{'lower-opacity': !isGrid}">Grid</div>
+    </div>
+
+    <!-- NOTE: List Button -->
+    <div class="d-flex" (click)="onListHandler()">
+
+        <div class="icon pdl pdt-sm pdr pdb transition" [ngClass]="{'lower-opacity': isGrid, 'white': isGrid}">
+            <i class="fas fa-th-list"></i>
+        </div>
+
+        <div class="wspace"></div>
+        <div class="layout-text pdt-sm transition" [ngClass]="{'lower-opacity': isGrid}">List</div>
+    </div>
+
+    <div class="yellow-line mnl mnr"></div>
+
+    <!-- NOTE: Switch -->
+    <div class="d-flex switch-container" (click)="onSwitched()">
+        <div class="pdl pdt pdb">
+            <label class="switch">
+                <input type="checkbox" [checked]="isShowTitle" disabled />
+                <span [ngClass]="{ 'lower-opacity': !isGrid, slider: true, round: true }"></span>
+            </label>
+        </div>
+        <div class="wspace"></div>
+        <div class="layout-text pdt transition" [ngClass]="{ 'lower-opacity': !isShowTitle || !isGrid}">
+            Show Codex Title
+        </div>
+    </div>
+</div>

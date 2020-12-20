@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1843.598" viewBox="0 0 1000 1843.598">
+  <g id="banner" transform="translate(-100 -165.402)">
+    <path id="banner-rect" d="M960,15H1960V1858.6l-500.432-277.807L960,1858.6Z" transform="translate(-860 150.402)" fill="#9b0014"/>
+    <g id="book" transform="translate(-322 374)">
+      <path id="Path_1" data-name="Path 1" d="M161.037,351.03V458.48l312.75,339.073c0-1.193,6.747-110.115,6.747-110.115Z" transform="translate(404 11)" fill="#141414"/>
+      <path id="Path_2" data-name="Path 2" d="M173.875,341.9,522.5,224.266c-1.193,0,354.287,271.982,354.287,271.982L491.015,676.707C491.019,677.9,173.875,341.9,173.875,341.9Z" transform="translate(404 11)" fill="#141414"/>
+      <path id="Path_3" data-name="Path 3" d="M866.185,495.015l5.2,100.667L469.681,785.366" transform="translate(404 13.262)" fill="none" stroke="#141414" stroke-width="20"/>
+      <path id="Path_4" data-name="Path 4" d="M527.862,734.828l57.849-32.213,36.985,68,53.89,38.173H637.01v41.747l-76.346-41.747Z" transform="translate(401 -4)" fill="#141414"/>
+      <path id="star" d="M453.529,348.618l6.927,49.807-19.973,52.458h52.763l56.857,30.1-7.046-52.693L566,382.922H506.984Z" transform="translate(404 11)" fill="none" stroke="#9b0014" stroke-width="20"/>
+    </g>
+    <path id="bottomstar" d="M1434.213-525.382l-21.461,47.844-46.125,23.523,36.26,21.073,31.326,50.164,28.67-50.164,37.326-21.073-37.326-23.523Z" transform="translate(-833 1838)" fill="#141414"/>
+    <path id="topstar" d="M1445.952-473.572l-15.438,52.482-64.016,26.8,47.184,21.625,32.269,58.507,21.64-58.507L1515.1-394.29l-47.511-26.8Z" transform="translate(-839.903 791.159)" fill="#141414"/>
+  </g>
+</svg>

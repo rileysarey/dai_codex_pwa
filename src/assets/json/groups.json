@@ -1,0 +1,172 @@
+[
+    {
+        "title": "A Tradition of Rebirth",
+        "codex_path": "assets/codex/groups/a_tradition_of_rebirth.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Ben-Hassrath Reeducators",
+        "codex_path": "assets/codex/groups/ben-hassrath_reeducators.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Chantry Hierarchy",
+        "codex_path": "assets/codex/groups/chantry_hierarchy.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Council of Heralds",
+        "codex_path": "assets/codex/groups/council_of_heralds.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "From a Mage's Journal",
+        "codex_path": "assets/codex/groups/from_a_mage's_journal.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "On Avvar Cuisine",
+        "codex_path": "assets/codex/groups/on_avvar_cuisine.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Qunari Dreadnoughts",
+        "codex_path": "assets/codex/groups/qunari_dreadnoughts.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Qunari Tamassrans",
+        "codex_path": "assets/codex/groups/qunari_tamassrans.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Qunari: Ben-Hassrath",
+        "codex_path": "assets/codex/groups/qunari_ben-hassrath.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Rebel Mages",
+        "codex_path": "assets/codex/groups/rebel_mages.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Sha-Brytol",
+        "codex_path": "assets/codex/groups/sha-brytol.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Surface Dwarves",
+        "codex_path": "assets/codex/groups/surface_dwarves.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Tal-Vashoth",
+        "codex_path": "assets/codex/groups/tal-vashoth.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Tevinter Society",
+        "codex_path": "assets/codex/groups/tevinter_society.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Avvars",
+        "codex_path": "assets/codex/groups/the_avvars.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Carta",
+        "codex_path": "assets/codex/groups/the_carta.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Circle of Magi",
+        "codex_path": "assets/codex/groups/the_circle_of_magi.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Dalish Elves",
+        "codex_path": "assets/codex/groups/the_dalish_elves.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Dwarven Merchants Guild",
+        "codex_path": "assets/codex/groups/the_dwarven_merchants_guild.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Founding of the Chantry",
+        "codex_path": "assets/codex/groups/the_founding_of_the_chantry.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Friends of Red Jenny",
+        "codex_path": "assets/codex/groups/the_friends_of_red_jenny.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Grey Wardens",
+        "codex_path": "assets/codex/groups/the_grey_wardens.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Imperial Chantry",
+        "codex_path": "assets/codex/groups/the_imperial_chantry.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Magisterium",
+        "codex_path": "assets/codex/groups/the_magisterium.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Order of Fiery Promise",
+        "codex_path": "assets/codex/groups/the_order_of_fiery_promise.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Orlesian Civil War",
+        "codex_path": "assets/codex/groups/the_orlesian_civil_war.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Pentaghasts",
+        "codex_path": "assets/codex/groups/the_pentaghasts.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Qunari",
+        "codex_path": "assets/codex/groups/the_qunari.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Seekers of Truth",
+        "codex_path": "assets/codex/groups/the_seekers_of_truth.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Sentinel Elves",
+        "codex_path": "assets/codex/groups/the_sentinel_elves.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Templar Order: End of an Accord",
+        "codex_path": "assets/codex/groups/the_templar_order_end_of_an_accord.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Templar Order: Traditional Role",
+        "codex_path": "assets/codex/groups/the_templar_other_traditional_role.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "The Venatori",
+        "codex_path": "assets/codex/groups/the_venatori.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    },
+    {
+        "title": "Vashoth: The Grey Ones",
+        "codex_path": "assets/codex/groups/vashoth_the_grey_ones.md",
+        "tarot_path": "assets/tarots/groups/groups.png"
+    }
+]
